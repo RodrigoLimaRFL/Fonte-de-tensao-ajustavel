@@ -4,7 +4,7 @@ Projeto de Fonte de Tensão Ajustável para a aula SSC0180 - Eletrônica Para Co
 
 <li> Karl Cruz Altenhofen </li>
 <li> Maicon Chaves Marques </li>
-<li> Rodrigo de Freitas Lima </li>
+<li> Rodrigo de Freitas Lima - https://github.com/RodrigoLimaRFL </li>
 
 <h2>Professor:</h2>
 
