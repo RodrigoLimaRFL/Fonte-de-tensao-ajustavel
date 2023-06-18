@@ -31,6 +31,8 @@ Tudo que foi escrito por mim apenas rascunho, não considerar nada. (Maicon)
 
 ## Link do circuito no Falstad:
 
+Para acessar o circuito no Falstad clique [AQUI](https://tinyurl.com/529mvxcv).
+
 ## Projeto do Esquemático e do PCB no EAGLE:
 
 ## Cálculos do projeto:
