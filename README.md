@@ -29,6 +29,16 @@ Tudo que foi escrito por mim apenas rascunho, não considerar nada. (Maicon)
 
 ## Imagem do circuito:
 
+Ponte Retificadora RS207 2A/1000V - Multcomercial
+Capacitor Eletrolítico 680uF X 250V
+Led 5mm
+Resistor de 3.3k
+Resistor de 1k
+Resistor de 4.7k
+Diodo Zener 1N4743 (13V / 1W)
+POTENCIOMETRO: 3RP/1610N
+Transistor BC337(500mA)
+
 ## Link do circuito no Falstad:
 
 Para acessar o circuito no Falstad clique [AQUI](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEBmGZkDYAcmte2AJwYYgAsyISFVApgLRhgBQAbiPWVuAEzefdUZKOBAZI4AOyEREmAmYATED0jcwk0htKruPcADkycMkpXGVay+s0rDxyKeW7zE7dbtgjJszwsuA-3sfAHdwcV49KzA+KGYwlxiomx148IkhD0zINJdMwLlc-ys-DMc4hItM6vKcsPdE22IKqVJmzOa6lHKwCI7SLvyrGuEcgGNu4V6y4Rc5WDgMaUIV1bXV8ARoSUkwLARUZCOwMjIESSgFlgBzci5Ju8FMWTT+lCxhZpYwkffhbOYvX0yA+IHaoOmdkUtAAZgBDACuABsAC70JG0ZQQOSXSAsABOfxUfiJPAQAxQqEGoOqoLJA1eoOap24zR4jP+5RZDy63My3NKcUJ3OZ90hbngzGQwgAXrQAHa0fGMSgQMDbE7IBB8Ig6+A8BgXCQ8BbwM3miGq5gyx6uW0BEByxXK9Ac9KkknfW3NDAkzppX2fUiB905DTCBAxd3a5KiMBm3GQJAAJVoAGcAJZplFw+VjWjMQmR-Q8EnFnnkSRwZgoqi2XViaKEfRuDgmwiQZvIFZVniYLjYjVkSRayT7SCSBBnWLxiTQ+HIlFpcuQ7nitJriICqxdGPgZt1rQHrriFJiT0RE8kvjcEMAsIh0vCR8WHKEl8SR94EQxK+zEmnh4Xrlpkd61MuUb8vcAIACocGKM59LU5CXBA9BoCCWCEDERCTjwYAIHipCcNAOArKWTBalOGCoAgDAEZcqzMAA9lQYijOQnYyKoKDQC2dhIMgLEoBAGAccYKxsTAcDIDESAQMCEBCax3bsSIEncfMJZ2KpykqMG4lcZYiayWSKB2DwpBCUAA).
