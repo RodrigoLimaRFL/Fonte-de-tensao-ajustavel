@@ -1,7 +1,7 @@
 # Fonte-de-tensao-ajustavel
 Projeto de Fonte de Tensão Ajustável para a aula SSC0180 - Eletrônica Para Computação <br>
 
-![IMG_20230629_194258](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/83624138/476ca5e8-28e3-42fb-9e0d-0ae2b9daeb6d)
+![IMG_20230629_194303](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/83624138/3cdc96c7-6d02-48be-982f-d4b23c069530)
 
 ## Os Componentes:
 * **Capacitor**: Vai manter a corrente enquanto os ciclos da tomada se alterarem.
