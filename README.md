@@ -12,29 +12,30 @@ Tudo que foi escrito por mim apenas rascunho, não considerar nada. (Maicon)
 * **Transistores**: Permite ajustar a passagem da corrente.
 * **Transformador**: Nao parece uma boa ideia ligar meu celular em 127V.
 
+![image](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/83624138/c947e13f-34bd-4161-aced-d43352884445)
+
 ## Tabela dos Componentes:
 | Quantidade | Componentes        | Valor R$ |
 |------------|--------------------|----------|
-| 1          | Capacitor          | R$ 0,15  x  5 = R$0,75 |
-| 1          | Diodo              | R$ 1,35 |
-| 1          | Diodo Zener        | R$ 0,25 |
-| 2          | Potenciômetro      | R$ 0,08 x 2 = R$0,16 |
-| 1          | Led Vermelho       | R$ 0,08 |
-| 1          | Resistor           | R$ 0,10 |
-| 1          | Resistor           | R$ 1,15 |
-| 1          | Resistor           | R$ 0,21 |
-| 1          | Transistor         | R$ 0,18 |
-| 1          | Transformador      | R$ 22,99 |
-| **Total**  |                    |  R$ 28,14 |
+| 1          | Protoboard 400 furos         | R$ 35,00 |
+| 1          | Capacitor Eletrolítico 680uF X 200V         | R$ 25,53 |
+| 1          | Ponte Retificadora 2W10M 2A/800V              | R$ 4,10 |
+| 1          | Diodo Zener 1N4743 (13V / 1W)       | R$ 0,48 |
+| 1          | Potenciômetro 1W B10K      | R$ 4,70 |
+| 1          | Led Vermelho 5mm      | R$ 0,08 |
+| 1          | Resistor 3.3k          | R$ 0,70 |
+| 2          | Resistor 4.7k          | R$ 0,70 x 2 = R$ 1,40 |
+| 1          | Transistor BC337 (0,8 A)         | R$ 0,70 |
+| **Total**  |                    |  R$ 72,69 |
 
 ## Imagem do circuito:
 
+Protoboard 400 furos
 Ponte Retificadora RS207 2A/1000V - Multcomercial
 Capacitor Eletrolítico 680uF X 250V
 Led 5mm
-Resistor de 3.3k
-Resistor de 1k
-Resistor de 4.7k
+1 resistor de 3.3k
+2 resistores de 4.7k
 Diodo Zener 1N4743 (13V / 1W)
 POTENCIOMETRO: 3RP/1610N
 Transistor BC337(500mA)
@@ -47,7 +48,7 @@ LED 5mm
 
 ## Link do circuito no Falstad:
 
-Para acessar o circuito no Falstad clique [AQUI](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEBmGZkDYAcmte2AJwYYgAsyISFVApgLRhgBQAbiPWVuAEzefdUZKOBAZI4AOyEREmAmYATED0jcwk0htKruPcADkycMkpXGVay+s0rDxyKeW7zE7dbtgjJszwsuA-3sfAHdwcV49KzA+KGYwlxiomx148IkhD0zINJdMwLlc-ys-DMc4hItM6vKcsPdE22IKqVJmzOa6lHKwCI7SLvyrGuEcgGNu4V6y4Rc5WDgMaUIV1bXV8ARoSUkwLARUZCOwMjIESSgFlgBzci5Ju8FMWTT+lCxhZpYwkffhbOYvX0yA+IHaoOmdkUtAAZgBDACuABsAC70JG0ZQQOSXSAsABOfxUfiJPAQAxQqEGoOqoLJA1eoOap24zR4jP+5RZDy63My3NKcUJ3OZ90hbngzGQwgAXrQAHa0fGMSgQMDbE7IBB8Ig6+A8BgXCQ8BbwM3miGq5gyx6uW0BEByxXK9Ac9KkknfW3NDAkzppX2fUiB905DTCBAxd3a5KiMBm3GQJAAJVoAGcAJZplFw+VjWjMQmR-Q8EnFnnkSRwZgoqi2XViaKEfRuDgmwiQZvIFZVniYLjYjVkSRayT7SCSBBnWLxiTQ+HIlFpcuQ7nitJriICqxdGPgZt1rQHrriFJiT0RE8kvjcEMAsIh0vCR8WHKEl8SR94EQxK+zEmnh4Xrlpkd61MuUb8vcAIACocGKM59LU5CXBA9BoCCWCEDERCTjwYAIHipCcNAOArKWTBalOGCoAgDAEZcqzMAA9lQYijOQnYyKoKDQC2dhIMgLEoBAGAccYKxsTAcDIDESAQMCEBCax3bsSIEncfMJZ2KpykqMG4lcZYiayWSKB2DwpBCUAA).
+Para acessar o circuito no Falstad clique [AQUI](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcsDMYBM6EA4GTClgOwBsJIALCiElTQKYC0YYAUAG4iMXbjq-deKSBSjgQJSOCIBOaOSmLoCVgBMQ6SLzClp5Tb3TgAchTgU1Gsxq03tuo2FPnLBq1J37bj5yNfW3QICTMz8Ad3BJPkNbDF5IVgi3OLs9DUTIqWFRN2yoDNyRVPRrBKSA72s8svcQPPqims9U5pkFDNbyPLb8iLywKO72vqLC0WrWAGM6ooGs0dsleBJZGTX1jfWNdHkEBEwSPGEZPaMYODYAc0oeGdEKW5QUBV67kB6UbFEethHxos+-1ECQGRkB7y6X0yGhAqnoADMAIYAVwANgAXRio+jqCCKKCwNgAJzqUMw4zJCBeFCIcAy4PqlOGpO+5AevB66HpULy7LeNT5vNuJUUrBJfJ6fLmYiedJQogAXvQAHb0InMagQMDQIhgKj7bBgGT8MDwdBMIhiHbwG22uBQgjgVgKm6Gax8wIgJWq9UEbmiaXg8lOiIS8gkEoQ14R1kSSPSkFEUQIDDQg0tcA2gmIEAAJXoAGcAJYF9GI5WTehimip4MpsGNSi0hLomi6I1GSTaY1iCCMOREbAyChU7AiY3GiME3U0iglGSQNqSWmW01SOFItHojL16FSqIC27Sj2LHf8cA9hDtns1LtpGPQ2+R-i8B8TCIP4Of0rV79ST-YPEfBPjkkZ3skO6pnkb6NJBDb3I8sEACpcEe56Bo2wLQAQJAyNgJDCDheEEVwMA6JA+yQLSOAICgMifLYCDQOgBA4MO8rCJ8Q5MAMBLrKwAD20h1GclCLjIYkEqJjiWiggkSCJYhmGsknauQECdnUrBAA).
 
 ## Projeto do Esquemático e do PCB no EAGLE:
 
