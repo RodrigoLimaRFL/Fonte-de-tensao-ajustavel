@@ -16,7 +16,7 @@ Projeto de Fonte de Tensão Ajustável para a aula SSC0180 - Eletrônica Para Co
 | Quantidade | Componentes        | Valor R$ |
 |------------|--------------------|----------|
 | 1          | Protoboard 400 furos         | R$ 35,00 |
-| 1          | Capacitor Eletrolítico 680uF X 200V         | R$ 25,53 |
+| 1          | Capacitor Eletrolítico 680uF X 50V         | R$ 25,53 |
 | 1          | Ponte Retificadora 2W10M 2A/800V              | R$ 4,10 |
 | 1          | Diodo Zener 1N4743 (13V / 1W)       | R$ 0,48 |
 | 1          | Potenciômetro 1W B10K      | R$ 4,70 |
