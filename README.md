@@ -1,7 +1,7 @@
 # Fonte-de-tensao-ajustavel
 Projeto de Fonte de Tensão Ajustável para a aula SSC0180 - Eletrônica Para Computação <br>
 
-Tudo que foi escrito por mim apenas rascunho, não considerar nada. (Maicon)
+![IMG_20230629_194258](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/83624138/476ca5e8-28e3-42fb-9e0d-0ae2b9daeb6d)
 
 ## Os Componentes:
 * **Capacitor**: Vai manter a corrente enquanto os ciclos da tomada se alterarem.
@@ -11,8 +11,6 @@ Tudo que foi escrito por mim apenas rascunho, não considerar nada. (Maicon)
 * **Resistores**: Vai permitir alterarmos a corrente.
 * **Transistores**: Permite ajustar a passagem da corrente.
 * **Transformador**: Nao parece uma boa ideia ligar meu celular em 127V.
-
-![image](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/83624138/c947e13f-34bd-4161-aced-d43352884445)
 
 ## Tabela dos Componentes:
 | Quantidade | Componentes        | Valor R$ |
@@ -30,20 +28,7 @@ Tudo que foi escrito por mim apenas rascunho, não considerar nada. (Maicon)
 
 ## Imagem do circuito:
 
-Protoboard 400 furos
-Ponte Retificadora RS207 2A/1000V - Multcomercial
-Capacitor Eletrolítico 680uF X 250V
-Led 5mm
-1 resistor de 3.3k
-2 resistores de 4.7k
-Diodo Zener 1N4743 (13V / 1W)
-POTENCIOMETRO: 3RP/1610N
-Transistor BC337(500mA)
-
-P2:
-ESP32
-KIT de Botoes
-LED 5mm
+![image](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/83624138/e5d3a080-ead5-4dbc-8325-e6d4ff1d9111)
 
 
 ## Link do circuito no Falstad:
@@ -54,7 +39,13 @@ Para acessar o circuito no Falstad clique [AQUI](https://www.falstad.com/circuit
 
 ## Cálculos do projeto:
 
+![image](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/83624138/c947e13f-34bd-4161-aced-d43352884445)
+
 ## Fotos da placa/protoboard:
+
+![IMG_20230629_194321](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/83624138/5801aafd-522d-40f1-ba09-a70b8fe30cb2)
+
+![IMG_20230629_194325](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/83624138/3f847ab0-4742-4343-8492-5ad0b25a7bab)
 
 ## Vídeo no youtube explicando o projeto:
 
