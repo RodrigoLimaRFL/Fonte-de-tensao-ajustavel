@@ -15,16 +15,15 @@ Projeto de Fonte de Tensão Ajustável para a aula SSC0180 - Eletrônica Para Co
 ## Tabela dos Componentes:
 | Quantidade | Componentes        | Valor R$ |
 |------------|--------------------|----------|
-| 1          | Protoboard 400 furos         | R$ 35,00 |
-| 1          | Capacitor Eletrolítico 680uF X 50V         | R$ 25,53 |
+| 1          | Capacitor Eletrolítico 680uF X 50V         | R$ 5,10 |
 | 1          | Ponte Retificadora 2W10M 2A/800V              | R$ 4,10 |
 | 1          | Diodo Zener 1N4743 (13V / 1W)       | R$ 0,48 |
 | 1          | Potenciômetro 1W B10K      | R$ 4,70 |
-| 1          | Led Vermelho 5mm      | R$ 0,08 |
+| 1          | Led Vermelho 5mm      | R$ 0,50 |
 | 1          | Resistor 3.3k          | R$ 0,70 |
-| 2          | Resistor 4.7k          | R$ 0,70 x 2 = R$ 1,40 |
+| 2          | Resistor 4.7k          | R$ 0,70 |
 | 1          | Transistor BC337 (0,8 A)         | R$ 0,70 |
-| **Total**  |                    |  R$ 72,69 |
+| **Total**  |                    |  R$ 16,98 |
 
 ## Imagem do circuito:
 
@@ -35,11 +34,18 @@ Projeto de Fonte de Tensão Ajustável para a aula SSC0180 - Eletrônica Para Co
 
 Para acessar o circuito no Falstad clique [AQUI](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcsDMYBM6EA4GTClgOwBsJIALCiElTQKYC0YYAUAG4iMXbjq-deKSBSjgQJSOCIBOaOSmLoCVgBMQ6SLzClp5Tb3TgAchTgU1Gsxq03tuo2FPnLBq1J37bj5yNfW3QICTMz8Ad3BJPkNbDF5IVgi3OLs9DUTIqWFRN2yoDNyRVPRrBKSA72s8svcQPPqims9U5pkFDNbyPLb8iLywKO72vqLC0WrWAGM6ooGs0dsleBJZGTX1jfWNdHkEBEwSPGEZPaMYODYAc0oeGdEKW5QUBV67kB6UbFEethHxos+-1ECQGRkB7y6X0yGhAqnoADMAIYAVwANgAXRio+jqCCKKCwNgAJzqUMw4zJCBeFCIcAy4PqlOGpO+5AevB66HpULy7LeNT5vNuJUUrBJfJ6fLmYiedJQogAXvQAHb0InMagQMDQIhgKj7bBgGT8MDwdBMIhiHbwG22uBQgjgVgKm6Gax8wIgJWq9UEbmiaXg8lOiIS8gkEoQ14R1kSSPSkFEUQIDDQg0tcA2gmIEAAJXoAGcAJYF9GI5WTehimip4MpsGNSi0hLomi6I1GSTaY1iCCMOREbAyChU7AiY3GiME3U0iglGSQNqSWmW01SOFItHojL16FSqIC27Sj2LHf8cA9hDtns1LtpGPQ2+R-i8B8TCIP4Of0rV79ST-YPEfBPjkkZ3skO6pnkb6NJBDb3I8sEACpcEe56Bo2wLQAQJAyNgJDCDheEEVwMA6JA+yQLSOAICgMifLYCDQOgBA4MO8rCJ8Q5MAMBLrKwAD20h1GclCLjIYkEqJjiWiggkSCJYhmGsknauQECdnUrBAA).
 
-## Projeto do Esquemático e do PCB no EAGLE:
+## Projeto do Esquemático:
+![Captura de Tela (214)](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/118189820/e980926e-8bb8-41e5-afeb-44117f0a931f)
+
+## PCB no EAGLE:
+<div align="center">
+<img src="https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/118189820/44824876-2e78-4723-ab24-4e9462689693" width="700px" />
+</div>
 
 ## Cálculos do projeto:
-
-![image](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/83624138/c947e13f-34bd-4161-aced-d43352884445)
+<div align="center">
+<img src="https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/83624138/c947e13f-34bd-4161-aced-d43352884445" width="700px" />
+</div>
 
 ## Fotos da placa/protoboard:
 
