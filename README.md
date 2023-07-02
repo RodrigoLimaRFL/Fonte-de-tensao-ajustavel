@@ -50,8 +50,9 @@ Para acessar o circuito no Falstad clique [AQUI](https://www.falstad.com/circuit
 ## Fotos da placa/protoboard:
 
 ![IMG_20230629_194321](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/83624138/5801aafd-522d-40f1-ba09-a70b8fe30cb2)
-![Imagem do WhatsApp de 2023-07-01 à(s) 21 34 18](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/118189820/63e0843d-d6a7-483c-b15b-f364947a65ab)
-![Imagem do WhatsApp de 2023-07-01 à(s) 21 34 17](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/118189820/a804a35e-ed72-464a-a824-3ede0f5c0aad)
+![Imagem do WhatsApp de 2023-07-01 à(s) 21 34 18](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/118189820/4652c5b4-e65c-42b3-a6fa-c9b1c7361458)
+![Imagem do WhatsApp de 2023-07-01 à(s) 21 34 17](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/118189820/7bf65cd5-832c-4ba2-a70d-5762d9b50e44)
+
 
 ## Vídeo no youtube explicando o projeto:
 
