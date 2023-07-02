@@ -4,13 +4,13 @@ Projeto de Fonte de Tensão Ajustável para a aula SSC0180 - Eletrônica Para Co
 ![IMG_20230629_194303](https://github.com/RodrigoLimaRFL/Fonte-de-tensao-ajustavel/assets/83624138/3cdc96c7-6d02-48be-982f-d4b23c069530)
 
 ## Os Componentes:
-* **Capacitor**: Vai manter a corrente enquanto os ciclos da tomada se alterarem.
-* **Diodo Zener**: Vai manter a tensão limitada aos 12V.
-* **Ponte de Diodo**: Vai manter o circuito funcionando em ambos os ciclos da corrente alternada.
-* **Potenciometro**: Vai permitir que nós mudemos a tensão entre os 3V e os 12V.
-* **Resistores**: Vai permitir alterarmos a corrente.
-* **Transistores**: Permite ajustar a passagem da corrente.
-* **Transformador**: Nao parece uma boa ideia ligar meu celular em 127V.
+* **Capacitor**: Tem como objetivo manter a corrente contínua, pois armazenam carga elétrica enquanto o ciclo da tomada muda.
+* **Diodo Zener**: Tem como objetivo estabilizar a onda de entrada, ou seja, transformar uma tensão de corrente alternada (CA) em uma tensão de corrente contínua (CC);
+* **Ponte de Diodo**: Tem como objetivo retificar a onda de entrada, ou seja, transformar uma tensão de corrente alternada (CA) bifásica em uma tensão monofásica positiva.
+* **Potenciometro**: É, resumidamente, um resistor variável, tem como objetivo regular a tensão e corrente que passa pelo transistor.
+* **Resistores**: limita o fluxo de cargas elétricas por meio da conversão da energia elétrica em energia térmica.
+* **Transistores**: Juntamente com o potenciômetro, e o diodo de zener, o transistor faz parte da função de regular a tensão e corrente na saída da fonte. 
+* **Transformador**: Tem como objetivo transformar a diferença de potencial de pico de 179v, vinda da tomada, para uma tensão próxima de 23V.
 
 ## Tabela dos Componentes:
 | Quantidade | Componentes        | Valor R$ |
