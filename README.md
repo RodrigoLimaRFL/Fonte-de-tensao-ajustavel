@@ -61,6 +61,7 @@ Para acessar o circuito no Falstad clique [AQUI](https://www.falstad.com/circuit
 <li> Karl Cruz Altenhofen - https://github.com/KarlCruzAltenhofen </li>
 <li> Maicon Chaves Marques - https://github.com/MaiconChavesMarques </li>
 <li> Rodrigo de Freitas Lima - https://github.com/RodrigoLimaRFL </li>
+<li> Anna Vitória Gonçalves - https://github.com/Anna-vrg </li>
 
 <h2>Professor:</h2>
 
