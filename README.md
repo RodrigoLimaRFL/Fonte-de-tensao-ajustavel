@@ -56,6 +56,8 @@ Para acessar o circuito no Falstad clique [AQUI](https://www.falstad.com/circuit
 
 ## Vídeo no youtube explicando o projeto:
 
+https://youtu.be/-6Gm9kgplxo
+
 <h2>Membros:</h2>
 
 <li> Karl Cruz Altenhofen - https://github.com/KarlCruzAltenhofen </li>
